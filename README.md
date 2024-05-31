@@ -70,3 +70,12 @@ This project is a responsive web application for calculating the interest rate a
       3. Navigate to the Backend Directory:
       4. Install dependencies:
          <pre>npm install</pre>
+
+### Screenshot
+![screen1](https://github.com/royabhi647/train-ticket-booking/assets/98969290/cb3d282a-1ad9-412a-b17e-605421783ce7)
+![screen2](https://github.com/royabhi647/train-ticket-booking/assets/98969290/c7f9718b-5a65-4561-801f-1ad4e0bde802)
+![screen3](https://github.com/royabhi647/train-ticket-booking/assets/98969290/e30499f1-2918-49eb-a039-599720570201)
+![screen4](https://github.com/royabhi647/train-ticket-booking/assets/98969290/1d71926b-55df-495c-a709-5a6394390dfe)
+![screen5](https://github.com/royabhi647/train-ticket-booking/assets/98969290/dff0788f-f76a-44c4-8d52-16f48fab2210)
+![user](https://github.com/royabhi647/train-ticket-booking/assets/98969290/1b3c3d20-2213-4e33-9230-638b6d1cafb2)
+![condition](https://github.com/royabhi647/train-ticket-booking/assets/98969290/efd89a36-e271-49d1-aa04-a891d51f6d01)
