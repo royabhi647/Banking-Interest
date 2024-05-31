@@ -3,7 +3,7 @@
 ### Project Description
 This project is a responsive web application for calculating the interest rate and interest amount for a fixed deposit in a bank. It uses a React.js frontend and a Node.js backend, with MySQL for data storage.
 
-### [live preview](https://abhii-crypto.netlify.app/)
+### [live preview](https://drive.google.com/file/d/16ihHUeCAQPdBuVT_KLMZDAj6ZDDRnJJr/view?usp=sharing)
 
 ### Tech Stack
    - <strong>Frontend:</strong> HTML, CSS, Tailwind CSS, JavaScript, React.js
